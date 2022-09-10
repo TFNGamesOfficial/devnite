@@ -6,5 +6,5 @@ permalink: /
 {% include landing.html %}
 
 <body background=
-"https://slutares.sirv.com/devnite-llama-teaser-2022-full.jpg?profile=isk">
+"https://media-cdn.epicgames.com/71ed961897bc47da8ecd9202a5b3f4b8/hero.jpg">
 </body>
