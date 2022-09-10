@@ -18,6 +18,8 @@ nav_exclude:                                            # The following paths ar
   - pages/404.html
   - pages/index.md
   - pages/projects.html
+  - pages/win32.md
+  - pages/win64.md
 
 
 ### Author Info ###
