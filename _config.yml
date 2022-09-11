@@ -20,6 +20,9 @@ nav_exclude:                                            # The following paths ar
   - pages/projects.html
   - pages/win32.md
   - pages/win64.md
+  - pages/mac.md
+  - pages/ios.md
+  - pages/android.md
 
 
 ### Author Info ###
