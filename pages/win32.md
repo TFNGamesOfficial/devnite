@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Download
-permalink: /download?platform=win32
+permalink: /download/win32
 ---
 
 # Download Devnite (Win32)

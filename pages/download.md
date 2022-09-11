@@ -8,8 +8,8 @@ permalink: /download/select-device
 
 **Please select your platform**
 
-- [Android](https://tfngames.tk/devnite/download?platform=win64)
-- [Android](https://tfngames.tk/devnite/download?platform=win32)
+- [Desktop (Win32)](https://tfngames.tk/devnite/download/win32)
+- [Desktop (Win64)](https://tfngames.tk/devnite/download/win64)
 - [Mac](https://tfngames.tk/devnite/download?platform=mac)
 - [iOS](https://tfngames.tk/devnite/download?platform=ios)
 - [Android](https://tfngames.tk/devnite/download?platform=android)
