@@ -3,8 +3,9 @@ layout: page
 title: Quests
 permalink: /quest/update
 ---
-
+<!--
 ![Fortnite Quest](https://preview.redd.it/y7g6p7ix13y21.png?auto=webp&s=300826ee46e83e2510ac2dd9fc2ee3077151c2ec)
+-->
 # Quest update
 
 by TFNGames Team
