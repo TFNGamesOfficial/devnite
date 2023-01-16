@@ -6,5 +6,5 @@ permalink: /
 {% include landing.html %}
 
 <body background=
-"https://images.hdqwalls.com/wallpapers/blured-background.jpg">
+"https://wallpaper.dog/large/10812313.jpg">
 </body>
