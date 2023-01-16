@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Download
-permalink: /download/select-device
+permalink: /download/select-platform
 ---
 
 # Download Devnite
