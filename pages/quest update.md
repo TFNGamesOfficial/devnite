@@ -8,7 +8,12 @@ permalink: /quest/update
 -->
 # Quest update
 
-by TFNGames Team
+by DevGames Team
+
+
+<div class="alert alert-danger" role="alert">
+  This post is not updated and may include links to our old website!
+</div>
 
 
 The Quests are now visisble on Minimap!
@@ -30,4 +35,4 @@ The Quests are now visisble on Minimap!
 We add extra quests like Daily, Seasonal, Event quests later.
 
 ## Quests not available?
-If the quests are not available on release date, download a fix for this or update your game via TFN Launcher!
+If the quests are not available on release date, download a fix for this or update your game via DevLauncher!
