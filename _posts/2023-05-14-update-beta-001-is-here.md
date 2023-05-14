@@ -30,8 +30,10 @@ In today's update, the user interface has also been refreshed. It now has a more
 ### RARITY UPDATE
 We have added 2 new rarities to the game:
 - Access Card
+
 As the name suggests, this rarity is used for key cards.
 - Tech
+
 This rarity is for the tech from the Alien vs Monster mode.
 <hr>
 ### STORM ADJUSTMENTS
