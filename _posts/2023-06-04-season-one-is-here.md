@@ -51,7 +51,7 @@ The season pass includes these outfits:
 - Trolli Olli
 - Aspertiam
 - Hellen
-<hr>
+
 ### Season Pass Update
 - The Season Pass now has 30 free Rewards instead of 15
 - After level 100 you now get 5 SPoints to unlock cosmetics until you reach level 100
