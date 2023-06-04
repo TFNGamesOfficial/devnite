@@ -1,6 +1,6 @@
 ---
 title: Beta Update 0.0.1 is here!
-tags: [Recently Published, Update]
+tags: [Update]
 style: border
 color: primary
 description: Failed to load description!
