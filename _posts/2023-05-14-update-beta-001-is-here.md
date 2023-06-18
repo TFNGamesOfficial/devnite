@@ -9,7 +9,7 @@ description: Failed to load description!
 **by DevGames**
 
 
-It's spooky outside. Monsters and aliens are running everywhere, trying to eliminate you. <span style="font-family: 'TxE';">Leipzig Bayerischer Bahnhof</span>.
+It's spooky outside. Monsters and aliens are running everywhere, trying to eliminate you.
 
 <hr>
 ## **ALIEN VS MONSTER**
