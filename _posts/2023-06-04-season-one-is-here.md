@@ -1,6 +1,6 @@
 ---
 title: Season 1 is here!
-tags: [Recently Published, Season 1, v1.0]
+tags: [Season 1, v1.0]
 style: border
 color: primary
 description: Update 1.00 (Season 1) is here. Read whats new!
