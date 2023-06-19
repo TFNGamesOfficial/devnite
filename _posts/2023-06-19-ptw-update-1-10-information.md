@@ -18,7 +18,7 @@ You have received 100 D-Coins 5 times in the past. This will give you 250 extra 
 <hr>
 
 ## MISSION REWARDS
-The missions have also been updated! You now get 5% more rewards (excluding Battle Tickets and D-Coins). **However, the mission requirements have been doubled (so save 6 lives instead of 3).** You can find some of the updated missions [here](#NEW-MISSION-REQUIREMENTS).
+The missions have also been updated! You now get 5% more rewards (excluding Battle Tickets and D-Coins). **However, the mission requirements have been doubled (so save 6 lives instead of 3).** You can find some of the updated missions [here](#new-mission-requirements).
 <hr>
 
 ## STORE REMOVED
